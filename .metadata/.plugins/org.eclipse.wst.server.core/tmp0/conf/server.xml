@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\666139\Documents\workspace-sts-3.9.0.RELEASE\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\666139\Documents\workspace-sts-3.9.0.RELEASE\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\002_mvcForm" path="/002_mvcForm" reloadable="true" source="org.eclipse.jst.jee.server:002_mvcForm"/></Host>
+      <Context docBase="C:\Users\666139\Documents\workspace-sts-3.9.0.RELEASE\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\666139\Documents\workspace-sts-3.9.0.RELEASE\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\002_mvcForm" path="/002_mvcForm" reloadable="true" source="org.eclipse.jst.jee.server:002_mvcForm"/><Context docBase="C:\Users\666139\Documents\workspace-sts-3.9.0.RELEASE\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\005_SpringBootData" path="/005_SpringBootData" reloadable="true" source="org.eclipse.jst.jee.server:005_SpringBootData"/></Host>
     </Engine>
   </Service>
 </Server>
