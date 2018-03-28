@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"></meta>
-<title>Index</title>
+<title>Employee Manager</title>
 </head>
 <body>
 <a href="employeeForm.htm">Add Employee</a>  

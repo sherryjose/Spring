@@ -60,8 +60,6 @@ public class EmployeeController {
 		//working fine
 		return new ModelAndView("success");
 	}
-	
-	
 	@RequestMapping("/viewEmployee")
 	public String viewEmployees(Model model) {
 		List<EmployeeBean> list = employeeService.viewEmployees();

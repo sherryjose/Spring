@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move element &apos;application.properties&apos; to &apos;014springBoot/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;015FirstThymeLeafForm&apos;&#x0D;&#x0A;- Destination element: &apos;014springBoot/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;application.properties&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="=014springBoot/src\/main\/resources" element1="src/main/resources/templates/application.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1520944848979" units="0" version="1.0"/>
-</session>
