@@ -1,5 +1,0 @@
-package com.springboot.helloworld.controller;
-
-public class WelcomeController {
-
-}
